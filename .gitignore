@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/OllamaAI/bin/Debug/net8.0
+/OllamaAI/obj
+/OllamaAIApp/bin/Debug/net8.0
+/OllamaAIApp/obj
+*.sln
